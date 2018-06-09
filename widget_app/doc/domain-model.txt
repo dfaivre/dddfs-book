@@ -1,0 +1,10 @@
+
+context: Order-Taking
+
+// ---
+// SIMPLE TYPES
+// ---
+
+// Product codes
+data ProductCode = 
+....
